@@ -1,7 +1,7 @@
 /node_modules
 /gulp
 /src
-.gitattributes
-.gulpfile
-.package-lock.json
-.package.json
+/gitattributes
+/gulpfile
+/package-lock.json
+/package.json
